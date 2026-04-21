@@ -1,12 +1,12 @@
 <div align="center">
 
-# Myosin
+# Myosin 
 
 **Marketing intelligence and GTM infrastructure for frontier tech.**
 
 100+ vetted operators across 6 continents. $5M+ of practitioner knowledge from real deployments.
 
-[Website](https://myosin.xyz) · [Hivemind](https://myosin.xyz/hivemind) · [Telegram](https://t.me/+ECuSCI9PWuI4ZTYx) · [Book a call](https://airtable.com/app2byNnCpAY5XROt/pagKnKJTfVnYTRrWa/form)
+[Website](https://myosin.xyz) · [Twitter](https://x.com/Myosin_xyz) · [LinkedIn](https://www.linkedin.com/company/myosin-xyz/) · [Hivemind](https://myosin.xyz/hivemind) · [Book a call](https://airtable.com/app2byNnCpAY5XROt/pagKnKJTfVnYTRrWa/form)
 
 </div>
 
@@ -17,6 +17,7 @@
 Start with **Hivemind API**: programmatic access to Myosin's marketing intelligence layer. It's the same pipeline that powers the Hivemind app.
 
 Check out our [public facing documentation here](https://myosinxyz.notion.site/Hivemind-API-3124252a813a80c9bdfff9bd449a320d)
+
 ---
 
 ## 🧠 AI Studio
