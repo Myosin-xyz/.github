@@ -1,6 +1,8 @@
 <div align="center">
 
-# Myosin 
+<img src="https://github.com/Myosin-xyz/.github/blob/main/myosin-hero-banner.jpg?raw=true" />
+
+# Myosin.xyz
 
 **Marketing intelligence and GTM infrastructure for frontier tech.**
 
